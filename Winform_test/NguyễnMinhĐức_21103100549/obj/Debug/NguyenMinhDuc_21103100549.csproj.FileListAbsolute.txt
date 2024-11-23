@@ -1,0 +1,12 @@
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.csproj.AssemblyReference.cache
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.Form1_0549.resources
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.Form2_0549.resources
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.Form3_0549.resources
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.csproj.GenerateResource.cache
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.csproj.CoreCompileInputs.cache
+D:\projects\NguyễnMinhĐức_21103100549\bin\Debug\NguyenMinhDuc_21103100549.exe.config
+D:\projects\NguyễnMinhĐức_21103100549\bin\Debug\NguyenMinhDuc_21103100549.exe
+D:\projects\NguyễnMinhĐức_21103100549\bin\Debug\NguyenMinhDuc_21103100549.pdb
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.Properties.Resources.resources
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.exe
+D:\projects\NguyễnMinhĐức_21103100549\obj\Debug\NguyenMinhDuc_21103100549.pdb
